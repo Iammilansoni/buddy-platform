@@ -1,4 +1,4 @@
-# 📚 BUDDY - Academic Marketplace  
+# 📚 BUDDY - Academic Marketplace Internship Assignment 
 
 ## 📝 Table of Contents  
 - [About the Project](#about-the-project)  
