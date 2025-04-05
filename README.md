@@ -24,7 +24,6 @@
 
 ## ✨ Features  
 ✅ **Fully Responsive** – Works on all devices  
-✅ **User Authentication** – Secure login & registration  
 ✅ **Project Bidding System** – Students post projects, and tutors bid  
 ✅ **Project Management** – Track progress, deadlines, and submissions  
 ✅ **Real-time Notifications** – Updates on bids, messages, and project progress  
