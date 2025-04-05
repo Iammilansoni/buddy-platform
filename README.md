@@ -60,7 +60,6 @@
 ```
 buddy-platform/
 ├── app/                    # Next.js App Router
-│   ├── (auth)/             # Authentication routes
 │   ├── homework/           # Homework & Projects
 │   │   ├── auction/        # Project bidding page
 │   │   └── my-project/     # User's project management page
